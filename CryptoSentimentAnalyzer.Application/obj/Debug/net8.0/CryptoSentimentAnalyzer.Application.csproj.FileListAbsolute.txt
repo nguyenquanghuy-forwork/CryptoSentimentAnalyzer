@@ -1,0 +1,15 @@
+D:\Minor-Project\CryptoSentimentAnalyzer.Application\bin\Debug\net8.0\CryptoSentimentAnalyzer.Application.deps.json
+D:\Minor-Project\CryptoSentimentAnalyzer.Application\bin\Debug\net8.0\CryptoSentimentAnalyzer.Application.dll
+D:\Minor-Project\CryptoSentimentAnalyzer.Application\bin\Debug\net8.0\CryptoSentimentAnalyzer.Application.pdb
+D:\Minor-Project\CryptoSentimentAnalyzer.Application\bin\Debug\net8.0\CryptoSentimentAnalyzer.Domain.dll
+D:\Minor-Project\CryptoSentimentAnalyzer.Application\bin\Debug\net8.0\CryptoSentimentAnalyzer.Domain.pdb
+D:\Minor-Project\CryptoSentimentAnalyzer.Application\obj\Debug\net8.0\CryptoSentimentAnalyzer.Application.csproj.AssemblyReference.cache
+D:\Minor-Project\CryptoSentimentAnalyzer.Application\obj\Debug\net8.0\CryptoSentimentAnalyzer.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Minor-Project\CryptoSentimentAnalyzer.Application\obj\Debug\net8.0\CryptoSentimentAnalyzer.Application.AssemblyInfoInputs.cache
+D:\Minor-Project\CryptoSentimentAnalyzer.Application\obj\Debug\net8.0\CryptoSentimentAnalyzer.Application.AssemblyInfo.cs
+D:\Minor-Project\CryptoSentimentAnalyzer.Application\obj\Debug\net8.0\CryptoSentimentAnalyzer.Application.csproj.CoreCompileInputs.cache
+D:\Minor-Project\CryptoSentimentAnalyzer.Application\obj\Debug\net8.0\CryptoSe.065AC664.Up2Date
+D:\Minor-Project\CryptoSentimentAnalyzer.Application\obj\Debug\net8.0\CryptoSentimentAnalyzer.Application.dll
+D:\Minor-Project\CryptoSentimentAnalyzer.Application\obj\Debug\net8.0\refint\CryptoSentimentAnalyzer.Application.dll
+D:\Minor-Project\CryptoSentimentAnalyzer.Application\obj\Debug\net8.0\CryptoSentimentAnalyzer.Application.pdb
+D:\Minor-Project\CryptoSentimentAnalyzer.Application\obj\Debug\net8.0\ref\CryptoSentimentAnalyzer.Application.dll

@@ -1,0 +1,11 @@
+D:\Minor-Project\CryptoSentimentAnalyzer.Domain\bin\Debug\net8.0\CryptoSentimentAnalyzer.Domain.deps.json
+D:\Minor-Project\CryptoSentimentAnalyzer.Domain\bin\Debug\net8.0\CryptoSentimentAnalyzer.Domain.dll
+D:\Minor-Project\CryptoSentimentAnalyzer.Domain\bin\Debug\net8.0\CryptoSentimentAnalyzer.Domain.pdb
+D:\Minor-Project\CryptoSentimentAnalyzer.Domain\obj\Debug\net8.0\CryptoSentimentAnalyzer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Minor-Project\CryptoSentimentAnalyzer.Domain\obj\Debug\net8.0\CryptoSentimentAnalyzer.Domain.AssemblyInfoInputs.cache
+D:\Minor-Project\CryptoSentimentAnalyzer.Domain\obj\Debug\net8.0\CryptoSentimentAnalyzer.Domain.AssemblyInfo.cs
+D:\Minor-Project\CryptoSentimentAnalyzer.Domain\obj\Debug\net8.0\CryptoSentimentAnalyzer.Domain.csproj.CoreCompileInputs.cache
+D:\Minor-Project\CryptoSentimentAnalyzer.Domain\obj\Debug\net8.0\CryptoSentimentAnalyzer.Domain.dll
+D:\Minor-Project\CryptoSentimentAnalyzer.Domain\obj\Debug\net8.0\refint\CryptoSentimentAnalyzer.Domain.dll
+D:\Minor-Project\CryptoSentimentAnalyzer.Domain\obj\Debug\net8.0\CryptoSentimentAnalyzer.Domain.pdb
+D:\Minor-Project\CryptoSentimentAnalyzer.Domain\obj\Debug\net8.0\ref\CryptoSentimentAnalyzer.Domain.dll

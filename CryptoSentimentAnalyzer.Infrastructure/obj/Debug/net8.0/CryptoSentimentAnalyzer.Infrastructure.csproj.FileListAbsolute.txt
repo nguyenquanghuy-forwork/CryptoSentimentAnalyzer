@@ -1,0 +1,17 @@
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\bin\Debug\net8.0\CryptoSentimentAnalyzer.Infrastructure.deps.json
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\bin\Debug\net8.0\CryptoSentimentAnalyzer.Infrastructure.dll
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\bin\Debug\net8.0\CryptoSentimentAnalyzer.Infrastructure.pdb
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\bin\Debug\net8.0\CryptoSentimentAnalyzer.Application.dll
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\bin\Debug\net8.0\CryptoSentimentAnalyzer.Domain.dll
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\bin\Debug\net8.0\CryptoSentimentAnalyzer.Application.pdb
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\bin\Debug\net8.0\CryptoSentimentAnalyzer.Domain.pdb
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\obj\Debug\net8.0\CryptoSentimentAnalyzer.Infrastructure.csproj.AssemblyReference.cache
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\obj\Debug\net8.0\CryptoSentimentAnalyzer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\obj\Debug\net8.0\CryptoSentimentAnalyzer.Infrastructure.AssemblyInfoInputs.cache
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\obj\Debug\net8.0\CryptoSentimentAnalyzer.Infrastructure.AssemblyInfo.cs
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\obj\Debug\net8.0\CryptoSentimentAnalyzer.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\obj\Debug\net8.0\CryptoSe.7A06C64A.Up2Date
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\obj\Debug\net8.0\CryptoSentimentAnalyzer.Infrastructure.dll
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\obj\Debug\net8.0\refint\CryptoSentimentAnalyzer.Infrastructure.dll
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\obj\Debug\net8.0\CryptoSentimentAnalyzer.Infrastructure.pdb
+D:\Minor-Project\CryptoSentimentAnalyzer.Infrastructure\obj\Debug\net8.0\ref\CryptoSentimentAnalyzer.Infrastructure.dll

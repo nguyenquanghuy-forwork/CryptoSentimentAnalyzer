@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoSentimentAnalyzer.API", "CryptoSentimentAnalyzer.API\CryptoSentimentAnalyzer.API.csproj", "{FE7DC605-4536-48E2-BB56-375EECE59FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoSentimentAnalyzer.Application", "CryptoSentimentAnalyzer.Application\CryptoSentimentAnalyzer.Application.csproj", "{0868B802-0EB6-429D-A34D-83B0058416CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoSentimentAnalyzer.Domain", "CryptoSentimentAnalyzer.Domain\CryptoSentimentAnalyzer.Domain.csproj", "{A657C68E-68EA-47EE-9F12-3E780719358B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoSentimentAnalyzer.Infrastructure", "CryptoSentimentAnalyzer.Infrastructure\CryptoSentimentAnalyzer.Infrastructure.csproj", "{B0078C1A-5A61-488A-8520-39875C0264A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoSentimentAnalyzer.Infrastructure.Data", "CryptoSentimentAnalyzer.Infrastructure.Data\CryptoSentimentAnalyzer.Infrastructure.Data.csproj", "{CE23200D-A2A2-4013-ADD1-401EB0572FF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7DC605-4536-48E2-BB56-375EECE59FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7DC605-4536-48E2-BB56-375EECE59FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7DC605-4536-48E2-BB56-375EECE59FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7DC605-4536-48E2-BB56-375EECE59FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0868B802-0EB6-429D-A34D-83B0058416CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0868B802-0EB6-429D-A34D-83B0058416CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0868B802-0EB6-429D-A34D-83B0058416CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0868B802-0EB6-429D-A34D-83B0058416CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A657C68E-68EA-47EE-9F12-3E780719358B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A657C68E-68EA-47EE-9F12-3E780719358B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A657C68E-68EA-47EE-9F12-3E780719358B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A657C68E-68EA-47EE-9F12-3E780719358B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0078C1A-5A61-488A-8520-39875C0264A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0078C1A-5A61-488A-8520-39875C0264A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0078C1A-5A61-488A-8520-39875C0264A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0078C1A-5A61-488A-8520-39875C0264A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE23200D-A2A2-4013-ADD1-401EB0572FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE23200D-A2A2-4013-ADD1-401EB0572FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE23200D-A2A2-4013-ADD1-401EB0572FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE23200D-A2A2-4013-ADD1-401EB0572FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

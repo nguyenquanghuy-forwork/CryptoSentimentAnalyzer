@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "af9ShOwvZvOguPtMIgShF9g1uOKRJrIY3DPFC/1PE/s=",
+  "Source": "CryptoSentimentAnalyzer.API",
+  "BasePath": "_content/CryptoSentimentAnalyzer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
