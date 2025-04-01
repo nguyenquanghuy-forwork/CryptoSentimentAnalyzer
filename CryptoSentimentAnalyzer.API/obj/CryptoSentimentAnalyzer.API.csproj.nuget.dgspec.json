@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj": {}
+    "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj": {}
   },
   "projects": {
-    "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj": {
+    "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj",
+        "projectUniqueName": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj",
         "projectName": "CryptoSentimentAnalyzer.API",
-        "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj",
+        "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\obj\\",
+        "outputPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio Enterprise 2022\\Shared Components\\NuGetPackages"
@@ -34,14 +34,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj": {
-                "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj"
+              "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj": {
+                "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj"
               },
-              "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj": {
-                "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj"
+              "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj": {
+                "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj"
               },
-              "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj": {
-                "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj"
+              "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj": {
+                "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj"
               }
             }
           }
@@ -115,14 +115,14 @@
         }
       }
     },
-    "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj": {
+    "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj",
+        "projectUniqueName": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj",
         "projectName": "CryptoSentimentAnalyzer.Application",
-        "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj",
+        "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\obj\\",
+        "outputPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio Enterprise 2022\\Shared Components\\NuGetPackages"
@@ -145,8 +145,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj": {
-                "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj"
+              "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj": {
+                "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj"
               }
             }
           }
@@ -203,14 +203,14 @@
         }
       }
     },
-    "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj": {
+    "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj",
+        "projectUniqueName": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj",
         "projectName": "CryptoSentimentAnalyzer.Domain",
-        "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj",
+        "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\obj\\",
+        "outputPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio Enterprise 2022\\Shared Components\\NuGetPackages"
@@ -269,14 +269,14 @@
         }
       }
     },
-    "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj": {
+    "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj",
+        "projectUniqueName": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj",
         "projectName": "CryptoSentimentAnalyzer.Infrastructure.Data",
-        "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj",
+        "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\obj\\",
+        "outputPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio Enterprise 2022\\Shared Components\\NuGetPackages"
@@ -299,11 +299,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj": {
-                "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj"
+              "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj": {
+                "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj"
               },
-              "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj": {
-                "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj"
+              "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj": {
+                "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj"
               }
             }
           }
@@ -358,14 +358,14 @@
         }
       }
     },
-    "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj": {
+    "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj",
         "projectName": "CryptoSentimentAnalyzer.Infrastructure",
-        "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj",
+        "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\obj\\",
+        "outputPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio Enterprise 2022\\Shared Components\\NuGetPackages"
@@ -388,11 +388,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj": {
-                "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj"
+              "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj": {
+                "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj"
               },
-              "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj": {
-                "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj"
+              "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj": {
+                "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj"
               }
             }
           }

@@ -1,185 +1,181 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Minor-Project\\",
+  "WorkspaceRootPath": "D:\\Git-Personal\\Minor-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\minor-project\\cryptosentimentanalyzer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|solutionrelative:cryptosentimentanalyzer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\features\\coins\\dtos\\tweetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\features\\coins\\dtos\\tweetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|d:\\minor-project\\cryptosentimentanalyzer.infrastructure.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|solutionrelative:cryptosentimentanalyzer.infrastructure.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\features\\coins\\dtos\\coindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\features\\coins\\dtos\\coindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\minor-project\\cryptosentimentanalyzer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|solutionrelative:cryptosentimentanalyzer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\features\\coins\\commands\\analyzecoinsentimentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\features\\coins\\commands\\analyzecoinsentimentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\minor-project\\cryptosentimentanalyzer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|solutionrelative:cryptosentimentanalyzer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0078C1A-5A61-488A-8520-39875C0264A5}|CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj|d:\\minor-project\\cryptosentimentanalyzer.infrastructure\\services\\twitterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0078C1A-5A61-488A-8520-39875C0264A5}|CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj|solutionrelative:cryptosentimentanalyzer.infrastructure\\services\\twitterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\minor-project\\cryptosentimentanalyzer.api\\services\\sentimentupdateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|solutionrelative:cryptosentimentanalyzer.api\\services\\sentimentupdateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\minor-project\\cryptosentimentanalyzer.api\\controllers\\sentimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.api\\controllers\\sentimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|solutionrelative:cryptosentimentanalyzer.api\\controllers\\sentimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\minor-project\\cryptosentimentanalyzer.api\\controllers\\coinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|solutionrelative:cryptosentimentanalyzer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.api\\controllers\\coinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|solutionrelative:cryptosentimentanalyzer.api\\controllers\\coinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\minor-project\\cryptosentimentanalyzer.api\\hubs\\sentimenthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|solutionrelative:cryptosentimentanalyzer.api\\hubs\\sentimenthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\minor-project\\cryptosentimentanalyzer.api\\cryptosentimentanalyzer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|solutionrelative:cryptosentimentanalyzer.api\\cryptosentimentanalyzer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\handlers\\calculatesentimentsummarycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\handlers\\calculatesentimentsummarycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\handlers\\analyzecoinsentimentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\handlers\\analyzecoinsentimentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\handlers\\getsentimentcomparisonsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\handlers\\getsentimentcomparisonsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\handlers\\getsentimentsummarybycoinqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\handlers\\getsentimentsummarybycoinqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\handlers\\getcoinbysymbolqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\handlers\\getcoinbysymbolqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\handlers\\getallcoinsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\handlers\\getallcoinsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\commands\\calculatesentimentsummarycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\commands\\calculatesentimentsummarycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\commands\\calculatesentimentsummarycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\commands\\analyzecoinsentimentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\commands\\analyzecoinsentimentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\cryptosentimentanalyzer.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\cryptosentimentanalyzer.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\queries\\getsentimentcomparisonsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\handlers\\analyzecoinsentimentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\handlers\\analyzecoinsentimentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.infrastructure.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|solutionrelative:cryptosentimentanalyzer.infrastructure.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|solutionrelative:cryptosentimentanalyzer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|solutionrelative:cryptosentimentanalyzer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0078C1A-5A61-488A-8520-39875C0264A5}|CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.infrastructure\\services\\twitterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0078C1A-5A61-488A-8520-39875C0264A5}|CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj|solutionrelative:cryptosentimentanalyzer.infrastructure\\services\\twitterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.api\\services\\sentimentupdateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|solutionrelative:cryptosentimentanalyzer.api\\services\\sentimentupdateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.api\\hubs\\sentimenthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|solutionrelative:cryptosentimentanalyzer.api\\hubs\\sentimenthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.api\\cryptosentimentanalyzer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE7DC605-4536-48E2-BB56-375EECE59FA2}|CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj|solutionrelative:cryptosentimentanalyzer.api\\cryptosentimentanalyzer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\handlers\\calculatesentimentsummarycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\handlers\\calculatesentimentsummarycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\handlers\\getsentimentsummarybycoinqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\handlers\\getsentimentsummarybycoinqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\handlers\\getcoinbysymbolqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\handlers\\getcoinbysymbolqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\handlers\\getallcoinsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\handlers\\getallcoinsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\queries\\getsentimentcomparisonsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\queries\\getsentimentcomparisonsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\queries\\getsentimentsummarybycoinquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\queries\\getsentimentsummarybycoinquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\queries\\getsentimentsummarybycoinquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\queries\\getcoinbysymbolquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\queries\\getcoinbysymbolquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\queries\\getcoinbysymbolquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\queries\\getallcoinsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\queries\\getallcoinsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\queries\\getallcoinsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\dtos\\tweetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\dtos\\tweetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\dtos\\sentimentsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\dtos\\sentimentsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\dtos\\sentimentsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\dtos\\sentimentresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\dtos\\sentimentresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\dtos\\sentimentresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\dtos\\coindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\dtos\\coindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0078C1A-5A61-488A-8520-39875C0264A5}|CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj|d:\\minor-project\\cryptosentimentanalyzer.infrastructure\\messagebroker\\rabbitmqmessagebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0078C1A-5A61-488A-8520-39875C0264A5}|CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.infrastructure\\messagebroker\\rabbitmqmessagebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0078C1A-5A61-488A-8520-39875C0264A5}|CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj|solutionrelative:cryptosentimentanalyzer.infrastructure\\messagebroker\\rabbitmqmessagebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\interfaces\\imessagebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\interfaces\\imessagebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\interfaces\\imessagebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0078C1A-5A61-488A-8520-39875C0264A5}|CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj|d:\\minor-project\\cryptosentimentanalyzer.infrastructure\\services\\sentimentanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0078C1A-5A61-488A-8520-39875C0264A5}|CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.infrastructure\\services\\sentimentanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0078C1A-5A61-488A-8520-39875C0264A5}|CryptoSentimentAnalyzer.Infrastructure\\CryptoSentimentAnalyzer.Infrastructure.csproj|solutionrelative:cryptosentimentanalyzer.infrastructure\\services\\sentimentanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\interfaces\\itwitterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\interfaces\\itwitterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\interfaces\\itwitterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\interfaces\\isentimentanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\interfaces\\isentimentanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\interfaces\\isentimentanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|d:\\minor-project\\cryptosentimentanalyzer.infrastructure.data\\repositories\\sentimentsummaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.infrastructure.data\\repositories\\sentimentsummaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|solutionrelative:cryptosentimentanalyzer.infrastructure.data\\repositories\\sentimentsummaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|d:\\minor-project\\cryptosentimentanalyzer.infrastructure.data\\repositories\\tweetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.infrastructure.data\\repositories\\tweetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|solutionrelative:cryptosentimentanalyzer.infrastructure.data\\repositories\\tweetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|d:\\minor-project\\cryptosentimentanalyzer.infrastructure.data\\repositories\\sentimentresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.infrastructure.data\\repositories\\sentimentresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|solutionrelative:cryptosentimentanalyzer.infrastructure.data\\repositories\\sentimentresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|d:\\minor-project\\cryptosentimentanalyzer.infrastructure.data\\repositories\\coinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.infrastructure.data\\repositories\\coinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|solutionrelative:cryptosentimentanalyzer.infrastructure.data\\repositories\\coinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|d:\\minor-project\\cryptosentimentanalyzer.infrastructure.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.infrastructure.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE23200D-A2A2-4013-ADD1-401EB0572FF2}|CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj|solutionrelative:cryptosentimentanalyzer.infrastructure.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\interfaces\\isentimentsummaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\interfaces\\isentimentsummaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\interfaces\\isentimentsummaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\interfaces\\isentimentresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\interfaces\\isentimentresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\interfaces\\isentimentresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\interfaces\\itweetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\interfaces\\itweetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\interfaces\\itweetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\interfaces\\icoinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\interfaces\\icoinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\minor-project\\cryptosentimentanalyzer.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0868B802-0EB6-429D-A34D-83B0058416CA}|CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj|solutionrelative:cryptosentimentanalyzer.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A657C68E-68EA-47EE-9F12-3E780719358B}|CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj|d:\\minor-project\\cryptosentimentanalyzer.domain\\entities\\sentimentsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A657C68E-68EA-47EE-9F12-3E780719358B}|CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.domain\\entities\\sentimentsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A657C68E-68EA-47EE-9F12-3E780719358B}|CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj|solutionrelative:cryptosentimentanalyzer.domain\\entities\\sentimentsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A657C68E-68EA-47EE-9F12-3E780719358B}|CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj|d:\\minor-project\\cryptosentimentanalyzer.domain\\entities\\sentimentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A657C68E-68EA-47EE-9F12-3E780719358B}|CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.domain\\entities\\sentimentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A657C68E-68EA-47EE-9F12-3E780719358B}|CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj|solutionrelative:cryptosentimentanalyzer.domain\\entities\\sentimentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A657C68E-68EA-47EE-9F12-3E780719358B}|CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj|d:\\minor-project\\cryptosentimentanalyzer.domain\\entities\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A657C68E-68EA-47EE-9F12-3E780719358B}|CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.domain\\entities\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A657C68E-68EA-47EE-9F12-3E780719358B}|CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj|solutionrelative:cryptosentimentanalyzer.domain\\entities\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A657C68E-68EA-47EE-9F12-3E780719358B}|CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj|d:\\minor-project\\cryptosentimentanalyzer.domain\\entities\\tweet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A657C68E-68EA-47EE-9F12-3E780719358B}|CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj|d:\\git-personal\\minor-project\\cryptosentimentanalyzer.domain\\entities\\tweet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A657C68E-68EA-47EE-9F12-3E780719358B}|CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj|solutionrelative:cryptosentimentanalyzer.domain\\entities\\tweet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -190,8 +186,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 25,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CryptoSentimentAnalyzer.Application",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T09:08:20.154Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -262,219 +271,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\Program.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\Program.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.API\\Program.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\Program.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\Program.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.API\\Program.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAACYAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T03:31:19.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CoinsController.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\Controllers\\CoinsController.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.API\\Controllers\\CoinsController.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\Controllers\\CoinsController.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.API\\Controllers\\CoinsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:27:27.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SentimentHub.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\Hubs\\SentimentHub.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.API\\Hubs\\SentimentHub.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\Hubs\\SentimentHub.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.API\\Hubs\\SentimentHub.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:26:51.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CryptoSentimentAnalyzer.API",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-18T03:26:37.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CalculateSentimentSummaryCommandHandler.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\CalculateSentimentSummaryCommandHandler.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Handlers\\CalculateSentimentSummaryCommandHandler.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\CalculateSentimentSummaryCommandHandler.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Handlers\\CalculateSentimentSummaryCommandHandler.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:26:19.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TwitterService.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\Services\\TwitterService.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Infrastructure\\Services\\TwitterService.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\Services\\TwitterService.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Infrastructure\\Services\\TwitterService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwC0AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:17:23.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Infrastructure.Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Infrastructure.Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:15:48.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.API\\appsettings.Development.json",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\appsettings.Development.json",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.API\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-18T03:35:18.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\appsettings.json",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.API\\appsettings.json",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\appsettings.json",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-18T03:35:23.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "SentimentController.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\Controllers\\SentimentController.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\Controllers\\SentimentController.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.API\\Controllers\\SentimentController.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\Controllers\\SentimentController.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\Controllers\\SentimentController.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.API\\Controllers\\SentimentController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAADQAAAAFAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T03:27:57.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SentimentUpdateService.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\Services\\SentimentUpdateService.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.API\\Services\\SentimentUpdateService.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.API\\Services\\SentimentUpdateService.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.API\\Services\\SentimentUpdateService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAIwCcAAAAYAAAA",
+              "DocumentIndex": 2,
+              "Title": "AnalyzeCoinSentimentCommand.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Features\\Coins\\Commands\\AnalyzeCoinSentimentCommand.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Features\\Coins\\Commands\\AnalyzeCoinSentimentCommand.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Features\\Coins\\Commands\\AnalyzeCoinSentimentCommand.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Features\\Coins\\Commands\\AnalyzeCoinSentimentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:28:31.74Z",
+              "WhenOpened": "2025-03-18T03:24:45.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AnalyzeCoinSentimentCommandHandler.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\AnalyzeCoinSentimentCommandHandler.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Handlers\\AnalyzeCoinSentimentCommandHandler.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\AnalyzeCoinSentimentCommandHandler.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Handlers\\AnalyzeCoinSentimentCommandHandler.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAcwGIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:26:06.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GetSentimentComparisonsQueryHandler.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\GetSentimentComparisonsQueryHandler.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Handlers\\GetSentimentComparisonsQueryHandler.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\GetSentimentComparisonsQueryHandler.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Handlers\\GetSentimentComparisonsQueryHandler.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAcwD4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:25:54.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GetSentimentSummaryByCoinQueryHandler.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\GetSentimentSummaryByCoinQueryHandler.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Handlers\\GetSentimentSummaryByCoinQueryHandler.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\GetSentimentSummaryByCoinQueryHandler.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Handlers\\GetSentimentSummaryByCoinQueryHandler.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAcwDkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:25:43.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GetCoinBySymbolQueryHandler.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\GetCoinBySymbolQueryHandler.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Handlers\\GetCoinBySymbolQueryHandler.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\GetCoinBySymbolQueryHandler.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Handlers\\GetCoinBySymbolQueryHandler.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA0wCQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:25:28.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GetAllCoinsQueryHandler.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\GetAllCoinsQueryHandler.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Handlers\\GetAllCoinsQueryHandler.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\GetAllCoinsQueryHandler.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Handlers\\GetAllCoinsQueryHandler.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA8wCEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:25:19.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
               "Title": "CalculateSentimentSummaryCommand.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Commands\\CalculateSentimentSummaryCommand.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Commands\\CalculateSentimentSummaryCommand.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Commands\\CalculateSentimentSummaryCommand.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Commands\\CalculateSentimentSummaryCommand.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Commands\\CalculateSentimentSummaryCommand.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Commands\\CalculateSentimentSummaryCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -483,50 +323,221 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AnalyzeCoinSentimentCommand.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Commands\\AnalyzeCoinSentimentCommand.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Commands\\AnalyzeCoinSentimentCommand.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Commands\\AnalyzeCoinSentimentCommand.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Commands\\AnalyzeCoinSentimentCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAFAAAA",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Infrastructure.Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Infrastructure.Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:24:45.848Z",
+              "WhenOpened": "2025-03-18T02:15:48.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoinsController.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\Controllers\\CoinsController.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.API\\Controllers\\CoinsController.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\Controllers\\CoinsController.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.API\\Controllers\\CoinsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:27:27.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "GetSentimentComparisonsQuery.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentComparisonsQuery.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentComparisonsQuery.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentComparisonsQuery.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentComparisonsQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAFAAAA",
+              "DocumentIndex": 1,
+              "Title": "CoinDto.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Features\\Coins\\DTOs\\CoinDto.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Features\\Coins\\DTOs\\CoinDto.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Features\\Coins\\DTOs\\CoinDto.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Features\\Coins\\DTOs\\CoinDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:24:23.812Z",
+              "WhenOpened": "2025-03-18T03:22:54.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TweetDto.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Features\\Coins\\DTOs\\TweetDto.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Features\\Coins\\DTOs\\TweetDto.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Features\\Coins\\DTOs\\TweetDto.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Features\\Coins\\DTOs\\TweetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:23:27.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TwitterService.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\Services\\TwitterService.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Infrastructure\\Services\\TwitterService.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\Services\\TwitterService.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Infrastructure\\Services\\TwitterService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwC0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:17:23.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.API\\appsettings.json",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\appsettings.json",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T03:35:23.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\appsettings.Development.json",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T03:35:18.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CalculateSentimentSummaryCommandHandler.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\CalculateSentimentSummaryCommandHandler.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Handlers\\CalculateSentimentSummaryCommandHandler.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\CalculateSentimentSummaryCommandHandler.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Handlers\\CalculateSentimentSummaryCommandHandler.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:26:19.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnalyzeCoinSentimentCommandHandler.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\AnalyzeCoinSentimentCommandHandler.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Handlers\\AnalyzeCoinSentimentCommandHandler.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\AnalyzeCoinSentimentCommandHandler.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Handlers\\AnalyzeCoinSentimentCommandHandler.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAzwCoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:26:06.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CryptoSentimentAnalyzer.API.csproj",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.API\\CryptoSentimentAnalyzer.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T03:26:37.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SentimentHub.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\Hubs\\SentimentHub.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.API\\Hubs\\SentimentHub.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\Hubs\\SentimentHub.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.API\\Hubs\\SentimentHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:26:51.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SentimentUpdateService.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\Services\\SentimentUpdateService.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.API\\Services\\SentimentUpdateService.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.API\\Services\\SentimentUpdateService.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.API\\Services\\SentimentUpdateService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwCcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:28:31.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetSentimentSummaryByCoinQueryHandler.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\GetSentimentSummaryByCoinQueryHandler.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Handlers\\GetSentimentSummaryByCoinQueryHandler.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\GetSentimentSummaryByCoinQueryHandler.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Handlers\\GetSentimentSummaryByCoinQueryHandler.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwDkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:25:43.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetCoinBySymbolQueryHandler.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\GetCoinBySymbolQueryHandler.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Handlers\\GetCoinBySymbolQueryHandler.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\GetCoinBySymbolQueryHandler.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Handlers\\GetCoinBySymbolQueryHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA0wCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:25:28.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "GetSentimentSummaryByCoinQuery.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentSummaryByCoinQuery.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentSummaryByCoinQuery.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentSummaryByCoinQuery.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentSummaryByCoinQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAFAAAA",
+              "Title": "GetAllCoinsQueryHandler.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\GetAllCoinsQueryHandler.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Handlers\\GetAllCoinsQueryHandler.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Handlers\\GetAllCoinsQueryHandler.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Handlers\\GetAllCoinsQueryHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA8wCEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:24:14.474Z",
+              "WhenOpened": "2025-03-18T03:25:19.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "GetSentimentComparisonsQuery.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentComparisonsQuery.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentComparisonsQuery.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentComparisonsQuery.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentComparisonsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:24:23.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetSentimentSummaryByCoinQuery.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentSummaryByCoinQuery.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentSummaryByCoinQuery.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentSummaryByCoinQuery.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Queries\\GetSentimentSummaryByCoinQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:24:14.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "GetCoinBySymbolQuery.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetCoinBySymbolQuery.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetCoinBySymbolQuery.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Queries\\GetCoinBySymbolQuery.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetCoinBySymbolQuery.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetCoinBySymbolQuery.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Queries\\GetCoinBySymbolQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -535,11 +546,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "GetAllCoinsQuery.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetAllCoinsQuery.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetAllCoinsQuery.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Queries\\GetAllCoinsQuery.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetAllCoinsQuery.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Queries\\GetAllCoinsQuery.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Queries\\GetAllCoinsQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -548,302 +559,243 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TweetDto.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\DTOs\\TweetDto.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\DTOs\\TweetDto.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\DTOs\\TweetDto.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\DTOs\\TweetDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:23:27.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "SentimentSummaryDto.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\DTOs\\SentimentSummaryDto.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\DTOs\\SentimentSummaryDto.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\DTOs\\SentimentSummaryDto.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\DTOs\\SentimentSummaryDto.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\DTOs\\SentimentSummaryDto.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\DTOs\\SentimentSummaryDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:23:15.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SentimentResultDto.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\DTOs\\SentimentResultDto.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\DTOs\\SentimentResultDto.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\DTOs\\SentimentResultDto.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\DTOs\\SentimentResultDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:23:05.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T03:23:15.15Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "CoinDto.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\DTOs\\CoinDto.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\DTOs\\CoinDto.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\DTOs\\CoinDto.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\DTOs\\CoinDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAFAAAA",
+              "Title": "SentimentResultDto.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\DTOs\\SentimentResultDto.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\DTOs\\SentimentResultDto.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\DTOs\\SentimentResultDto.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\DTOs\\SentimentResultDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:22:54.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T03:23:05.803Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "RabbitMQMessageBroker.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\MessageBroker\\RabbitMQMessageBroker.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\MessageBroker\\RabbitMQMessageBroker.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Infrastructure\\MessageBroker\\RabbitMQMessageBroker.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\MessageBroker\\RabbitMQMessageBroker.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\MessageBroker\\RabbitMQMessageBroker.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Infrastructure\\MessageBroker\\RabbitMQMessageBroker.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAAC4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:20:47.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T03:20:47.356Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "IMessageBroker.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\IMessageBroker.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\IMessageBroker.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Interfaces\\IMessageBroker.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\IMessageBroker.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\IMessageBroker.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Interfaces\\IMessageBroker.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:20:22.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T03:20:22.588Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "SentimentAnalysisService.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\Services\\SentimentAnalysisService.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\Services\\SentimentAnalysisService.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Infrastructure\\Services\\SentimentAnalysisService.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\Services\\SentimentAnalysisService.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure\\Services\\SentimentAnalysisService.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Infrastructure\\Services\\SentimentAnalysisService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:15:42.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T03:15:42.081Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "ITwitterService.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ITwitterService.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ITwitterService.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Interfaces\\ITwitterService.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ITwitterService.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ITwitterService.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Interfaces\\ITwitterService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:14:00.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T03:14:00.126Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "ISentimentAnalysisService.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentAnalysisService.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentAnalysisService.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentAnalysisService.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentAnalysisService.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentAnalysisService.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentAnalysisService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:20:38.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T02:20:38.524Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "SentimentSummaryRepository.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\SentimentSummaryRepository.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\SentimentSummaryRepository.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\SentimentSummaryRepository.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\SentimentSummaryRepository.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\SentimentSummaryRepository.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\SentimentSummaryRepository.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAmwA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:19:51.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T02:19:51.812Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "SentimentResultRepository.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\SentimentResultRepository.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\SentimentResultRepository.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\SentimentResultRepository.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\SentimentResultRepository.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\SentimentResultRepository.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\SentimentResultRepository.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAABsAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:19:40.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T02:19:40.864Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "TweetRepository.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\TweetRepository.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\TweetRepository.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\TweetRepository.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\TweetRepository.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\TweetRepository.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\TweetRepository.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAABAwBkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:19:22.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T02:19:22.475Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "CoinRepository.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\CoinRepository.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\CoinRepository.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\CoinRepository.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\CoinRepository.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\CoinRepository.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\CoinRepository.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAADwvxUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:19:02.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T02:19:02.981Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\Repository.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\Repository.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\Repository.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Infrastructure.Data\\Repositories\\Repository.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAAADsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:18:11.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T02:18:11.739Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "ISentimentSummaryRepository.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentSummaryRepository.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentSummaryRepository.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentSummaryRepository.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentSummaryRepository.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentSummaryRepository.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentSummaryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:17:44.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T02:17:44.72Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "ISentimentResultRepository.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentResultRepository.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentResultRepository.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentResultRepository.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentResultRepository.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentResultRepository.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Interfaces\\ISentimentResultRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:17:32.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T02:17:32.123Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "ITweetRepository.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ITweetRepository.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ITweetRepository.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Interfaces\\ITweetRepository.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ITweetRepository.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ITweetRepository.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Interfaces\\ITweetRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:16:59.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T02:16:59.77Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
-              "Title": "ICoinRepository.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ICoinRepository.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Interfaces\\ICoinRepository.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\ICoinRepository.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Interfaces\\ICoinRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAFAAAA",
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:16:39.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T02:16:22.596Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Application\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Application\\Interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAgAAAA",
+              "Title": "SentimentSummary.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\SentimentSummary.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Domain\\Entities\\SentimentSummary.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\SentimentSummary.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Domain\\Entities\\SentimentSummary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:16:22.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T02:15:24.287Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
-              "Title": "SentimentSummary.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\SentimentSummary.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Domain\\Entities\\SentimentSummary.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\SentimentSummary.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Domain\\Entities\\SentimentSummary.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:15:24.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
               "Title": "SentimentResult.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\SentimentResult.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\SentimentResult.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Domain\\Entities\\SentimentResult.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\SentimentResult.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\SentimentResult.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Domain\\Entities\\SentimentResult.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAA0wBkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:15:12.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Tweet.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\Tweet.cs",
-              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Domain\\Entities\\Tweet.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\Tweet.cs",
-              "RelativeToolTip": "CryptoSentimentAnalyzer.Domain\\Entities\\Tweet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:14:41.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T02:15:12.059Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 43,
+              "Title": "Tweet.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\Tweet.cs",
+              "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Domain\\Entities\\Tweet.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\Tweet.cs",
+              "RelativeToolTip": "CryptoSentimentAnalyzer.Domain\\Entities\\Tweet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:14:41.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
               "Title": "Coin.cs",
-              "DocumentMoniker": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\Coin.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\Coin.cs",
               "RelativeDocumentMoniker": "CryptoSentimentAnalyzer.Domain\\Entities\\Coin.cs",
-              "ToolTip": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\Coin.cs",
+              "ToolTip": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\Entities\\Coin.cs",
               "RelativeToolTip": "CryptoSentimentAnalyzer.Domain\\Entities\\Coin.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T02:14:25.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T02:14:25.056Z"
             }
           ]
         },

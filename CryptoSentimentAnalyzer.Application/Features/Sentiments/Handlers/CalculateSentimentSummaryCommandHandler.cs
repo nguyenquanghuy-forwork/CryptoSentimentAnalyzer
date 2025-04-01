@@ -1,4 +1,4 @@
-﻿using CryptoSentimentAnalyzer.Application.Commands;
+﻿using CryptoSentimentAnalyzer.Application.Features.Sentiments.Commands;
 using CryptoSentimentAnalyzer.Application.Interfaces;
 using CryptoSentimentAnalyzer.Domain.Entities;
 using MediatR;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CryptoSentimentAnalyzer.Application.Handlers
+namespace CryptoSentimentAnalyzer.Application.Features.Sentiments.Handlers
 {
     public class CalculateSentimentSummaryCommandHandler : IRequestHandler<CalculateSentimentSummaryCommand, bool>
     {

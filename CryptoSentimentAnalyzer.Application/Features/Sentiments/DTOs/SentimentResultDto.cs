@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CryptoSentimentAnalyzer.Application.DTOs
+namespace CryptoSentimentAnalyzer.Application.Features.Sentiments.DTOs
 {
     public class SentimentResultDto
     {

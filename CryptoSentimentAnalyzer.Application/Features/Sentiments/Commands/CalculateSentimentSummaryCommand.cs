@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CryptoSentimentAnalyzer.Application.Commands
+namespace CryptoSentimentAnalyzer.Application.Features.Sentiments.Commands
 {
     public class CalculateSentimentSummaryCommand : IRequest<bool>
     {

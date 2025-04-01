@@ -17,4 +17,11 @@
     <ProjectReference Include="..\CryptoSentimentAnalyzer.Domain\CryptoSentimentAnalyzer.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Commands\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Handlers\" />
+    <Folder Include="Queries\" />
+  </ItemGroup>
+
 </Project>

@@ -1,15 +1,11 @@
-﻿using CryptoSentimentAnalyzer.Application.Commands;
+﻿using CryptoSentimentAnalyzer.Application.Features.Coins.Commands;
+using CryptoSentimentAnalyzer.Application.Features.Sentiments.Commands;
 using CryptoSentimentAnalyzer.Application.Interfaces;
 using CryptoSentimentAnalyzer.Domain.Entities;
 using MediatR;
 using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace CryptoSentimentAnalyzer.Application.Handlers
+namespace CryptoSentimentAnalyzer.Application.Features.Coins.Handlers
 {
     public class AnalyzeCoinSentimentCommandHandler : IRequestHandler<AnalyzeCoinSentimentCommand, bool>
     {

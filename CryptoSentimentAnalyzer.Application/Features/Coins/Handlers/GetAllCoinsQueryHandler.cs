@@ -1,6 +1,6 @@
-﻿using CryptoSentimentAnalyzer.Application.DTOs;
+﻿using CryptoSentimentAnalyzer.Application.Features.Coins.DTOs;
+using CryptoSentimentAnalyzer.Application.Features.Coins.Queries;
 using CryptoSentimentAnalyzer.Application.Interfaces;
-using CryptoSentimentAnalyzer.Application.Queries;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CryptoSentimentAnalyzer.Application.Handlers
+namespace CryptoSentimentAnalyzer.Application.Features.Coins.Handlers
 {
     public class GetAllCoinsQueryHandler : IRequestHandler<GetAllCoinsQuery, IEnumerable<CoinDto>>
     {

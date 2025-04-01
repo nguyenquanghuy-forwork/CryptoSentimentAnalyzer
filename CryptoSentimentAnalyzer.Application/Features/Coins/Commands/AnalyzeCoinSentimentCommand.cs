@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CryptoSentimentAnalyzer.Application.Commands
+namespace CryptoSentimentAnalyzer.Application.Features.Coins.Commands
 {
     public class AnalyzeCoinSentimentCommand : IRequest<bool>
     {

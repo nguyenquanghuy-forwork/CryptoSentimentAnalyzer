@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj",
+      "projectUniqueName": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj",
       "projectName": "CryptoSentimentAnalyzer.Domain",
-      "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj",
+      "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\obj\\",
+      "outputPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio Enterprise 2022\\Shared Components\\NuGetPackages"

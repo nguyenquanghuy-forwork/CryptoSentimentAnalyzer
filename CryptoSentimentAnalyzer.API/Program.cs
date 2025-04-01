@@ -1,6 +1,7 @@
 // CryptoSentimentAnalyzer.API/Program.cs
 using CryptoSentimentAnalyzer.API.Hubs;
 using CryptoSentimentAnalyzer.API.Services;
+using CryptoSentimentAnalyzer.Application.Features.Coins.Commands;
 using CryptoSentimentAnalyzer.Application.Interfaces;
 using CryptoSentimentAnalyzer.Infrastructure.Data;
 using CryptoSentimentAnalyzer.Infrastructure.Data.Repositories;
@@ -54,7 +55,7 @@ builder.Services.AddSingleton<IMessageBroker, RabbitMQMessageBroker>();
 
 // Add MediatR
 builder.Services.AddMediatR(Assembly.GetExecutingAssembly(),
-    typeof(CryptoSentimentAnalyzer.Application.Commands.AnalyzeCoinSentimentCommand).Assembly);
+    typeof(AnalyzeCoinSentimentCommand).Assembly);
 
 // Add background services
 builder.Services.AddHostedService<SentimentUpdateService>();

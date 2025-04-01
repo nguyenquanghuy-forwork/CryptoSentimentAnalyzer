@@ -4907,11 +4907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj",
+      "projectUniqueName": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj",
       "projectName": "CryptoSentimentAnalyzer.Infrastructure.Data",
-      "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj",
+      "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\CryptoSentimentAnalyzer.Infrastructure.Data.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\obj\\",
+      "outputPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Infrastructure.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio Enterprise 2022\\Shared Components\\NuGetPackages"
@@ -4934,11 +4934,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj": {
-              "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj"
+            "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj": {
+              "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Application\\CryptoSentimentAnalyzer.Application.csproj"
             },
-            "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj": {
-              "projectPath": "D:\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj"
+            "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj": {
+              "projectPath": "D:\\Git-Personal\\Minor-Project\\CryptoSentimentAnalyzer.Domain\\CryptoSentimentAnalyzer.Domain.csproj"
             }
           }
         }

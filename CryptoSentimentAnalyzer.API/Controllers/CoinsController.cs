@@ -1,7 +1,6 @@
-﻿using CryptoSentimentAnalyzer.Application.DTOs;
-using CryptoSentimentAnalyzer.Application.Queries;
+﻿using CryptoSentimentAnalyzer.Application.Features.Coins.DTOs;
+using CryptoSentimentAnalyzer.Application.Features.Coins.Queries;
 using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CryptoSentimentAnalyzer.API.Controllers

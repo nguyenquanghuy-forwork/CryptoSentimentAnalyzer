@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CryptoSentimentAnalyzer.Application.DTOs
+namespace CryptoSentimentAnalyzer.Application.Features.Coins.DTOs
 {
     public class TweetDto
     {
