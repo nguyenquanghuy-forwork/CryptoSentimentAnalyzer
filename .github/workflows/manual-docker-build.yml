@@ -8,8 +8,8 @@ on:
         required: true
         type: choice
         options:
-          - backend
-          - frontend
+          - App
+          - Admin
 
 jobs:
   build-service:
